@@ -1,7 +1,7 @@
 {
   "boards": {
     "d2f868a8-7963-438d-a762-b8e2740bb1cc": {
-      "name": "event modle"
+      "name": "event modle xqqqqqq"
     }
   },
   "nodes": {
@@ -261,7 +261,7 @@
       "763b8c6f-158c-4aea-b002-50a9f76b9e65": {
         "meta": {
           "type": "SCREEN",
-          "title": "Email Registration",
+          "title": "Email Registration xyz",
           "description": "Registration screen where a new user signs up with their email address and password.",
           "semanticDescription": "Email registration screen — sign up with email, password, confirm password"
         }
@@ -344,7 +344,7 @@
       "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c": {
         "meta": {
           "type": "CHAPTER",
-          "title": "Login & Welcome",
+          "title": "Login & Welcome xyz",
           "timelineData": {
             "rows": [
               {
