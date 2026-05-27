@@ -1,0 +1,524 @@
+{
+  "boards": {
+    "d2f868a8-7963-438d-a762-b8e2740bb1cc": {
+      "name": "event modle"
+    }
+  },
+  "nodes": {
+    "d2f868a8-7963-438d-a762-b8e2740bb1cc": {
+      "nodes": [
+        {
+          "id": "5b2a5cea-bcc7-46fa-b96f-87fe263e6655",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "70ecd2a1-9c1c-475c-8765-6a3410ee4abe",
+            "title": ""
+          },
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T21:05:16.009Z"
+        },
+        {
+          "id": "a5c727ad-534a-4010-aeba-0708821e7105",
+          "type": "slice_border",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "type": "SLICE_BORDER",
+            "colId": "f07de8d8-ab9c-4262-bf02-41bc62adbaee",
+            "title": ""
+          },
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "hidden": true,
+          "modifiedAt": "2026-05-25T21:05:18.471Z"
+        },
+        {
+          "id": "231db9e0-1151-416c-b73d-4bbefd6c59e7",
+          "type": "sticky_note",
+          "data": {},
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "e0711f76-de06-486b-b839-75bf2b7982c2",
+          "type": "sticky_note",
+          "data": {},
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "763b8c6f-158c-4aea-b002-50a9f76b9e65",
+          "type": "image",
+          "position": {
+            "x": 105,
+            "y": 88
+          },
+          "data": {},
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6"
+        },
+        {
+          "id": "92191dd2-da7b-4ca1-a85d-f3d120aea979",
+          "type": "image",
+          "position": {
+            "x": 555,
+            "y": 88
+          },
+          "data": {
+            "url": "https://cdn.pixabay.com/photo/2016/01/03/11/24/gear-1119298_1280.png"
+          },
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6"
+        },
+        {
+          "id": "e0730ecb-56c8-40f2-aecd-6066e069b243",
+          "type": "sticky_note",
+          "position": {
+            "x": 545,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "2b872f29-57b0-4b68-b3ab-d520f6f6ecbe",
+          "type": "sticky_note",
+          "position": {
+            "x": 545,
+            "y": 756
+          },
+          "data": {},
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "074908e4-f6c6-4ce2-aa30-c369424ae255",
+          "type": "image",
+          "position": {
+            "x": 1005,
+            "y": 88
+          },
+          "data": {
+            "url": "https://i.ibb.co/87MRc1f/image.png"
+          },
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6"
+        },
+        {
+          "id": "3f747ee1-124a-4876-bc57-2d2ddebe8727",
+          "type": "sticky_note",
+          "position": {
+            "x": 995,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "3e969517-3912-4381-897d-a9159377a6fd",
+          "type": "sticky_note",
+          "position": {
+            "x": 995,
+            "y": 756
+          },
+          "data": {},
+          "parentId": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "e78b8a17-a126-4334-81ff-14a9b7a55d59",
+          "type": "image",
+          "position": {
+            "x": 105,
+            "y": 88
+          },
+          "data": {
+            "url": "https://i.ibb.co/87MRc1f/image.png"
+          },
+          "parentId": "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c"
+        },
+        {
+          "id": "ce9e4c60-8c61-4f1d-9681-1e5355542fbb",
+          "type": "sticky_note",
+          "position": {
+            "x": 95,
+            "y": 436
+          },
+          "data": {},
+          "parentId": "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "88976ec4-4b05-4de7-9162-68c9203d8a61",
+          "type": "sticky_note",
+          "position": {
+            "x": 95,
+            "y": 756
+          },
+          "data": {},
+          "parentId": "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "cde21144-fecd-489d-b8c2-8e99f01b79f1",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {
+            "url": "https://i.ibb.co/87MRc1f/image.png"
+          },
+          "parentId": "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c"
+        },
+        {
+          "id": "6c11b8f5-ae1f-43b7-b07c-cbc3544b0e6b",
+          "type": "sticky_note",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {},
+          "parentId": "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "a16a5c17-2392-4c4e-b4a1-94fca8998885",
+          "type": "sticky_note",
+          "position": {
+            "x": 0,
+            "y": 0
+          },
+          "data": {},
+          "parentId": "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c",
+          "modifiedAt": "2026-05-26T15:15:03.773Z"
+        },
+        {
+          "id": "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c",
+          "type": "timeline",
+          "position": {
+            "x": 0,
+            "y": 900
+          },
+          "data": {},
+          "modifiedAt": "2026-05-26T15:15:02.957Z"
+        },
+        {
+          "id": "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6",
+          "type": "timeline",
+          "position": {
+            "x": -1.3200090334237302,
+            "y": 0
+          },
+          "data": {},
+          "modifiedAt": "2026-05-26T15:15:02.958Z"
+        },
+        {
+          "id": "45c45274-6335-498d-a2e7-9ff3588b41d3",
+          "type": "context_node",
+          "position": {
+            "x": -780.2634236675702,
+            "y": 805.7354420731706
+          },
+          "data": {}
+        }
+      ],
+      "edges": []
+    }
+  },
+  "metadata": {
+    "d2f868a8-7963-438d-a762-b8e2740bb1cc": {
+      "5b2a5cea-bcc7-46fa-b96f-87fe263e6655": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": ""
+        }
+      },
+      "a5c727ad-534a-4010-aeba-0708821e7105": {
+        "meta": {
+          "type": "SLICE_BORDER",
+          "title": ""
+        }
+      },
+      "231db9e0-1151-416c-b73d-4bbefd6c59e7": {
+        "meta": {
+          "type": "COMMAND",
+          "title": "Register Account"
+        }
+      },
+      "e0711f76-de06-486b-b839-75bf2b7982c2": {
+        "meta": {
+          "type": "EVENT",
+          "title": "Account Registered"
+        }
+      },
+      "763b8c6f-158c-4aea-b002-50a9f76b9e65": {
+        "meta": {
+          "type": "SCREEN",
+          "title": "Email Registration",
+          "description": "Registration screen where a new user signs up with their email address and password.",
+          "semanticDescription": "Email registration screen — sign up with email, password, confirm password"
+        }
+      },
+      "92191dd2-da7b-4ca1-a85d-f3d120aea979": {
+        "meta": {
+          "type": "AUTOMATION",
+          "title": "Email Service"
+        }
+      },
+      "e0730ecb-56c8-40f2-aecd-6066e069b243": {
+        "meta": {
+          "type": "COMMAND",
+          "title": "Send Verification Email"
+        }
+      },
+      "2b872f29-57b0-4b68-b3ab-d520f6f6ecbe": {
+        "meta": {
+          "type": "EVENT",
+          "title": "Verification Email Sent"
+        }
+      },
+      "074908e4-f6c6-4ce2-aa30-c369424ae255": {
+        "meta": {
+          "type": "SCREEN",
+          "title": "Email Verification",
+          "semanticDescription": "Email verification screen — user clicks the verification link in their inbox and lands here"
+        }
+      },
+      "3f747ee1-124a-4876-bc57-2d2ddebe8727": {
+        "meta": {
+          "type": "COMMAND",
+          "title": "Verify Email"
+        }
+      },
+      "3e969517-3912-4381-897d-a9159377a6fd": {
+        "meta": {
+          "type": "EVENT",
+          "title": "Email Verified"
+        }
+      },
+      "e78b8a17-a126-4334-81ff-14a9b7a55d59": {
+        "meta": {
+          "type": "SCREEN",
+          "title": "Login Screen",
+          "semanticDescription": "Login screen — user enters email and password to authenticate"
+        }
+      },
+      "ce9e4c60-8c61-4f1d-9681-1e5355542fbb": {
+        "meta": {
+          "type": "COMMAND",
+          "title": "Authenticate User"
+        }
+      },
+      "88976ec4-4b05-4de7-9162-68c9203d8a61": {
+        "meta": {
+          "type": "EVENT",
+          "title": "User Logged In"
+        }
+      },
+      "cde21144-fecd-489d-b8c2-8e99f01b79f1": {
+        "meta": {
+          "type": "SCREEN",
+          "title": "Welcome Dashboard",
+          "semanticDescription": "Welcome dashboard — first screen after the user logs in, shows profile and getting-started actions"
+        }
+      },
+      "6c11b8f5-ae1f-43b7-b07c-cbc3544b0e6b": {
+        "meta": {
+          "type": "READMODEL",
+          "title": "User Profile"
+        }
+      },
+      "a16a5c17-2392-4c4e-b4a1-94fca8998885": {
+        "meta": {
+          "type": "EVENT",
+          "title": "Profile Loaded"
+        }
+      },
+      "3b115ad4-cbb9-4d15-9e89-63b67e4dcf7c": {
+        "meta": {
+          "type": "CHAPTER",
+          "title": "Login & Welcome",
+          "timelineData": {
+            "rows": [
+              {
+                "id": "bbdafc4b-c478-4330-b5af-a2d69035810b",
+                "type": "actor",
+                "label": "Actor",
+                "height": 320
+              },
+              {
+                "id": "a3dfcda3-235d-4130-85dd-6392ca0c23dc",
+                "type": "interaction",
+                "label": "Interaction",
+                "height": 320
+              },
+              {
+                "id": "18ef2c85-bdfc-4917-8c3d-4dbc8cc39207",
+                "type": "swimlane",
+                "label": "Swimlane",
+                "height": 320
+              },
+              {
+                "id": "c6766b8a-12f6-4c26-bf55-8c1661655f1f",
+                "type": "spec",
+                "label": "Spec Lane",
+                "height": 320
+              }
+            ],
+            "columns": [
+              {
+                "id": "18f98963-40d0-4349-abbe-ea2a86c98191",
+                "width": 450
+              },
+              {
+                "id": "b09f0150-efb9-4cec-8209-7a3d5c806b24",
+                "width": 450
+              }
+            ],
+            "cells": [
+              {
+                "id": "bbdafc4b-c478-4330-b5af-a2d69035810b-18f98963-40d0-4349-abbe-ea2a86c98191",
+                "colId": "18f98963-40d0-4349-abbe-ea2a86c98191",
+                "rowId": "bbdafc4b-c478-4330-b5af-a2d69035810b",
+                "nodeId": "e78b8a17-a126-4334-81ff-14a9b7a55d59",
+                "nodeType": "SCREEN"
+              },
+              {
+                "id": "a3dfcda3-235d-4130-85dd-6392ca0c23dc-18f98963-40d0-4349-abbe-ea2a86c98191",
+                "colId": "18f98963-40d0-4349-abbe-ea2a86c98191",
+                "rowId": "a3dfcda3-235d-4130-85dd-6392ca0c23dc",
+                "nodeId": "ce9e4c60-8c61-4f1d-9681-1e5355542fbb",
+                "nodeType": "COMMAND"
+              },
+              {
+                "id": "18ef2c85-bdfc-4917-8c3d-4dbc8cc39207-18f98963-40d0-4349-abbe-ea2a86c98191",
+                "colId": "18f98963-40d0-4349-abbe-ea2a86c98191",
+                "rowId": "18ef2c85-bdfc-4917-8c3d-4dbc8cc39207",
+                "nodeId": "88976ec4-4b05-4de7-9162-68c9203d8a61",
+                "nodeType": "EVENT"
+              }
+            ]
+          }
+        }
+      },
+      "d79425ec-d145-4d4c-b1d3-8bb970b5c8e6": {
+        "meta": {
+          "type": "CHAPTER",
+          "title": "Email Registration",
+          "timelineData": {
+            "rows": [
+              {
+                "id": "55dcbbc1-7332-43a6-9e6e-15f762a79c89",
+                "type": "actor",
+                "label": "Actor",
+                "height": 320
+              },
+              {
+                "id": "d6356b6f-5e47-4c0b-bfa4-78a307429cca",
+                "type": "interaction",
+                "label": "Interaction",
+                "height": 320
+              },
+              {
+                "id": "b9b46e3f-22d8-4be8-83f3-54446d39ae84",
+                "type": "swimlane",
+                "label": "Swimlane",
+                "height": 320
+              },
+              {
+                "id": "af64ea60-637d-445e-a5ef-dc99f3827a46",
+                "type": "spec",
+                "label": "Spec Lane",
+                "height": 320
+              }
+            ],
+            "columns": [
+              {
+                "id": "f07de8d8-ab9c-4262-bf02-41bc62adbaee",
+                "width": 450
+              },
+              {
+                "id": "6a7dd961-c184-471d-83ff-dd8460c5d515",
+                "width": 450
+              },
+              {
+                "id": "d793b831-bf3a-498c-b099-b9fcd770166e",
+                "width": 450
+              }
+            ],
+            "cells": [
+              {
+                "id": "55dcbbc1-7332-43a6-9e6e-15f762a79c89-f07de8d8-ab9c-4262-bf02-41bc62adbaee",
+                "colId": "f07de8d8-ab9c-4262-bf02-41bc62adbaee",
+                "rowId": "55dcbbc1-7332-43a6-9e6e-15f762a79c89",
+                "nodeId": "763b8c6f-158c-4aea-b002-50a9f76b9e65",
+                "nodeType": "SCREEN"
+              },
+              {
+                "id": "55dcbbc1-7332-43a6-9e6e-15f762a79c89-6a7dd961-c184-471d-83ff-dd8460c5d515",
+                "colId": "6a7dd961-c184-471d-83ff-dd8460c5d515",
+                "rowId": "55dcbbc1-7332-43a6-9e6e-15f762a79c89",
+                "nodeId": "92191dd2-da7b-4ca1-a85d-f3d120aea979",
+                "nodeType": "AUTOMATION"
+              },
+              {
+                "id": "55dcbbc1-7332-43a6-9e6e-15f762a79c89-d793b831-bf3a-498c-b099-b9fcd770166e",
+                "colId": "d793b831-bf3a-498c-b099-b9fcd770166e",
+                "rowId": "55dcbbc1-7332-43a6-9e6e-15f762a79c89",
+                "nodeId": "074908e4-f6c6-4ce2-aa30-c369424ae255",
+                "nodeType": "SCREEN"
+              },
+              {
+                "id": "d6356b6f-5e47-4c0b-bfa4-78a307429cca-6a7dd961-c184-471d-83ff-dd8460c5d515",
+                "colId": "6a7dd961-c184-471d-83ff-dd8460c5d515",
+                "rowId": "d6356b6f-5e47-4c0b-bfa4-78a307429cca",
+                "nodeId": "e0730ecb-56c8-40f2-aecd-6066e069b243",
+                "nodeType": "COMMAND"
+              },
+              {
+                "id": "d6356b6f-5e47-4c0b-bfa4-78a307429cca-d793b831-bf3a-498c-b099-b9fcd770166e",
+                "colId": "d793b831-bf3a-498c-b099-b9fcd770166e",
+                "rowId": "d6356b6f-5e47-4c0b-bfa4-78a307429cca",
+                "nodeId": "3f747ee1-124a-4876-bc57-2d2ddebe8727",
+                "nodeType": "COMMAND"
+              },
+              {
+                "id": "b9b46e3f-22d8-4be8-83f3-54446d39ae84-6a7dd961-c184-471d-83ff-dd8460c5d515",
+                "colId": "6a7dd961-c184-471d-83ff-dd8460c5d515",
+                "rowId": "b9b46e3f-22d8-4be8-83f3-54446d39ae84",
+                "nodeId": "2b872f29-57b0-4b68-b3ab-d520f6f6ecbe",
+                "nodeType": "EVENT"
+              },
+              {
+                "id": "b9b46e3f-22d8-4be8-83f3-54446d39ae84-d793b831-bf3a-498c-b099-b9fcd770166e",
+                "colId": "d793b831-bf3a-498c-b099-b9fcd770166e",
+                "rowId": "b9b46e3f-22d8-4be8-83f3-54446d39ae84",
+                "nodeId": "3e969517-3912-4381-897d-a9159377a6fd",
+                "nodeType": "EVENT"
+              }
+            ]
+          }
+        }
+      },
+      "45c45274-6335-498d-a2e7-9ff3588b41d3": {
+        "meta": {
+          "type": "MODEL_CONTEXT",
+          "title": "Context"
+        }
+      }
+    }
+  },
+  "images": {
+    "d2f868a8-7963-438d-a762-b8e2740bb1cc": {}
+  },
+  "nodeSnapshots": {
+    "d2f868a8-7963-438d-a762-b8e2740bb1cc": {}
+  }
+}
